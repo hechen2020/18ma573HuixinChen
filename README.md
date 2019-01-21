@@ -6,3 +6,5 @@ Computational methods on financial math
 
 Homework
 - Homework 1 by colab - [ipynb](src/hw1_github_colab.ipynb)
+- Homework 2 part 1 - [ipynb](src/hw2_second_fd.ipynb)
+- Homework 2 part 2 - [ipynb](src/hw2_ex_fd.ipynb)
