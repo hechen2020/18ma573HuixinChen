@@ -9,3 +9,4 @@ Homework
 - Homework 2 part 1 - [ipynb](src/hw2_second_fd.ipynb)
 - Homework 2 part 2 - [ipynb](src/hw2_ex_fd.ipynb)
 - Homework 3 part 1 - [ipynb](src/hw3_proposition.ipynb)
+- Homework 3 part 2 - [ipynb](src/hw3_bsm_price.ipynb)
