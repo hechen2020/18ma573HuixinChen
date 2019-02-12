@@ -16,3 +16,5 @@ Homework
   - first set of data - [ipynb](src/hw4_bsm_calibration_1.ipynb)
   - second set of data - [ipynb](src/hw4_bsm_calibration_2.ipynb)
 - Homework 4 part 2 - [ipynb](src/hw4_bsm_geometric_asian_option.ipynb)
+- Homework 5 part 1 - [ipynb](src/hw_mc_01.ipynb)
+- Homework 5 part 2 - [ipynb](src/hw_mc_02.ipynb)
