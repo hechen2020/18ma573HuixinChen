@@ -132,3 +132,36 @@ if __name__ == '__main__':
     print('>>>>>>>>>>call value is ' + str(gbm1.bsm_price(option1)))
     option2 = VanillaOption(otype=-1)
     print('>>>>>>>>>>put value is ' + str(gbm1.bsm_price(option2)))
+    
+    
+# In[6]:
+'''==============
+output: BSM geometric asian option price formula
+==============='''
+def bsm_geometric_asian_price(self,
+                              otype = 1,
+                              strike = 110.,
+                              maturity = 1,
+                              num_step = 4 #patition number:m
+                             ):
+  s0 = self.init_state
+  sigma = self.vol_ratio
+  r = self.drift_ratio
+  k = strike
+  T = maturity
+  m = num_step
+  
+  mu = r - (sigma**2/2)
+  hmu = mu/2
+  hsigma = np.sqrt((sigma**2)*(2*m+1)/(6*(m+1)))
+  hr = hmu +hsigma**2/2
+  
+  d1 = (np.log(s0/k) + (hr+0.5*hsigma**2) * T) / (hsigma*np.sqrt(T))
+  d2 = d1 - hsigma*np.sqrt(T)
+  
+  return (np.exp(T*(hr-r)) * (otype*s0*ss.norm.cdf(otype*d1)
+                          - otype*k*np.exp(-hr*T)*ss.norm.cdf(otype*d2)))
+
+
+  
+Gbm_1d.bsm_geometric_asian_price = bsm_geometric_asian_price
