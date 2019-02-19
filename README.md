@@ -11,3 +11,6 @@ Homework
 - Homework 4 part 2 - [ipynb](src/hw4_bsm_geometric_asian_option.ipynb)
 - Homework 5 part 1 - [ipynb](src/hw_mc_01.ipynb)
 - Homework 5 part 2 - [ipynb](src/hw_mc_02.ipynb)
+- Homework 6 part 1 - [ipynb](src/hw_omc_integral.ipynb)
+- Homework 6 part 2 - [ipynb](src/hw_is_it_integral.ipynb)
+- Homework 6 part 3 - [ipynb](src/hw_exact_sample_v2.ipynb)
