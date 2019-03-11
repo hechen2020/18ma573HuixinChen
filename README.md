@@ -14,3 +14,10 @@ Homework
 - Homework 6 part 1 - [ipynb](src/hw_omc_integral.ipynb)
 - Homework 6 part 2 - [ipynb](src/hw_is_it_integral.ipynb)
 - Homework 6 part 3 - [ipynb](src/hw_exact_sample_v2.ipynb)
+- Homework 7 part 1 - [ipynb](src/hw_payoff_correlation.ipynb) NOT DONE
+- Homework 7 part 2 - [ipynb](src/hw_es_bsm_knock_in.ipynb)
+- Homework 7 part 3 - [ipynb](src/hw_vasicek_calibration.ipynb)
+- Homework 8 part 1 - [ipynb](src/hw_fourier.ipynb)
+- Homework 8 part 2 - [ipynb](src/hw_fourier_heston.ipynb)
+- Homework 8 part 3 - [ipynb](src/hw_char_fun_normal.ipynb)
+- Class HW sint/t integral - [ipynb](src/hw_sint_t_proof.ipynb)
