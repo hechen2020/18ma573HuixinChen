@@ -21,3 +21,6 @@ Homework
 - Homework 8 part 2 - [ipynb](src/hw_fourier_heston.ipynb)
 - Homework 8 part 3 - [ipynb](src/hw_char_fun_normal.ipynb)
 - Class HW sint/t integral - [ipynb](src/hw_sint_t_proof.ipynb)
+- Homework 10 part 1 - [ipynb](hw_ftcs_stability_heat_1d.ipynb)
+- Homework 10 part 2 - [ipynb](hw_ftcs_stability.ipynb)
+- Homework 10 part 3 - [ipynb](src/hw_ito_2d.ipynb)
