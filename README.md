@@ -25,4 +25,4 @@ Homework
 - Homework 10 part 2 - [ipynb](src/hw_ftcs_stability.ipynb)
 - Homework 10 part 3 - [ipynb](src/hw_ito_2d.ipynb)
 - Homework 11 part 1 - [ipynb](src/hw_crr.ipynb)
-- Homework 11 part 2 - [ipynb](src/btcs_stability_heat_1d.ipynb)
+- Homework 11 part 2 - [ipynb](src/btcs_stability_heat_1d_v2.ipynb)
