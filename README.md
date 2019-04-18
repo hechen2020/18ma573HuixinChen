@@ -26,4 +26,4 @@ Homework
 - Homework 10 part 3 - [ipynb](src/hw_ito_2d.ipynb)
 - Homework 11 part 1 - [ipynb](src/hw_crr.ipynb)
 - Homework 11 part 2 - [ipynb](src/btcs_stability_heat_1d_v3.ipynb)
-- Homework 12 - [ipynb](src/hw12.ipynb)
+- Homework 12 - [ipynb](src/hw12_v3.ipynb)
